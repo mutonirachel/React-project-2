@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.section{
+    height: 33vh;
+    margin: 3px;
+    color: burlywood;
+    background-color: aqua;
+}
+.header{
+    height: 33vh;
+    margin: 3px;
+    color: azure;
+    background-color: aqua;
+}
+.footer{
+    height: 32vh;
+    margin: 3px;
+    color: blue;
+    background-color: aqua;
+}
